@@ -1,5 +1,14 @@
 # Rosalind Problem Solutions
 
+  ____             _             
+ |  _ \           | |            
+ | |_) |_ __ _   _| |_ ___  _ __ 
+ |  _ <| '__| | | | __/ _ \| '__|
+ | |_) | |  | |_| | || (_) | |   
+ |____/|_|   \__,_|\__\___/|_|   
+                                 
+
+
 ## Description
 This repository contains my solutions to the Rosalind problems. Each problem is solved using Python code. 
 ## Structure
